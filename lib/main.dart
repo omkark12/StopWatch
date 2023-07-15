@@ -99,7 +99,7 @@ class _homeappstateState extends State<homeappstate> {
             children: [
               Center(
                 child: Text(
-                  'StopWatch ⌚',
+                  'StopWatch ⏳',
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: 40,
@@ -123,7 +123,7 @@ class _homeappstateState extends State<homeappstate> {
                 ),
               ),
               Container(
-                height: 400,
+                height: 300,
                 decoration: BoxDecoration(
                   border: Border.all(color: Colors.white, width: 6),
                   color: Colors.cyanAccent,
