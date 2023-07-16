@@ -4,8 +4,11 @@ A new Flutter project.
 
 features of my Stopwatch app:
 ⏲ Accurate Timekeeping
-⏯ Start, Pause, and Reset: Seamlessly control your Stopwatch with intuitive buttons. 
+
+⏯ Start, Pause, and Reset: Seamlessly control your Stopwatch with intuitive buttons.
+
 ⏰ Lap Times: Capture multiple lap times effortlessly. 
+
 🔒 Reliable and Stable: stable app that ensures accurate timekeeping, even in the background.
 
 
